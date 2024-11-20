@@ -232,7 +232,7 @@ Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked,Survived
 1,"Perreault, Miss. Anne",female,30,0,0,12749,93.5,B73,S,1
 1,"Peuchen, Major. Arthur Godfrey",male,52,0,0,113786,30.5,C104,S,1
 1,"Porter, Mr. Walter Chamberlain",male,47,0,0,110465,52,C110,S,0
-1,"Potter, Mrs. Thomas Jr (Lily Alexenia Wilson)",female,56,0,1,11767,83.16,C50,C,1
+1,"Potter, Mrs. Thomas Jr (Lily Alexenia Wilson)",female,5600,0,1,11767,83.16,C50,C,1
 1,"Reuchlin, Jonkheer. John George",male,38,0,0,19972,0,,S,0
 1,"Rheims, Mr. George Alexander Lucien",male,,0,0,PC 17607,39.6,,S,1
 1,"Ringhini, Mr. Sante",male,22,0,0,PC 17760,135.63,,C,0
@@ -256,7 +256,7 @@ Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked,Survived
 1,"Saalfeld, Mr. Adolphe",male,,0,0,19988,30.5,C106,S,1
 1,"Sagesser, Mlle. Emma",female,24,0,0,PC 17477,69.3,B35,C,1
 1,"Salomon, Mr. Abraham L",male,,0,0,111163,26,,S,1
-1,"Schabert, Mrs. Paul (Emma Mock)",female,35,1,0,13236,57.75,C28,C,1
+1,"Schabert, Mrs. Paul (Emma Mock)",female,3500,1,0,13236,57.75,C28,C,1
 1,"Serepeca, Miss. Augusta",female,30,0,0,113798,31,,C,1
 1,"Seward, Mr. Frederic Kimber",male,34,0,0,113794,26.55,,S,1
 1,"Shutes, Miss. Elizabeth W",female,40,0,0,PC 17582,153.46,C125,S,1
@@ -335,8 +335,8 @@ Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked,Survived
 2,"Ball, Mrs. (Ada E Hall)",female,36,0,0,28551,13,D,S,1
 2,"Banfield, Mr. Frederick James",male,28,0,0,C.A./SOTON 34068,10.5,,S,0
 2,"Bateman, Rev. Robert James",male,51,0,0,S.O.P. 1166,12.53,,S,0
-2,"Beane, Mr. Edward",male,32,1,0,2908,26,,S,1
-2,"Beane, Mrs. Edward (Ethel Clarke)",female,19,1,0,2908,26,,S,1
+2,"Beane, Mr. Edward",male,32,1,0,2908,26000,,S,1
+2,"Beane, Mrs. Edward (Ethel Clarke)",female,19,1,0,2908,26000,,S,1
 2,"Beauchamp, Mr. Henry James",male,28,0,0,244358,26,,S,0
 2,"Becker, Master. Richard F",male,1,2,1,230136,39,F4,S,1
 2,"Becker, Miss. Marion Louise",female,4,2,1,230136,39,F4,S,1
@@ -595,9 +595,9 @@ Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked,Survived
 2,"West, Mrs. Edwy Arthur (Ada Mary Worth)",female,33,1,2,C.A. 34651,27.75,,S,1
 2,"Wheadon, Mr. Edward H",male,66,0,0,C.A. 24579,10.5,,S,0
 2,"Wheeler, Mr. Edwin ""Frederick""",male,,0,0,SC/PARIS 2159,12.88,,S,0
-2,"Wilhelms, Mr. Charles",male,31,0,0,244270,13,,S,1
-2,"Williams, Mr. Charles Eugene",male,,0,0,244373,13,,S,1
-2,"Wright, Miss. Marion",female,26,0,0,220844,13.5,,S,1
+2,"Wilhelms, Mr. Charles",male,31,0,0,244270,1300,,S,1
+2,"Williams, Mr. Charles Eugene",male,,0,0,244373,1300,,S,1
+2,"Wright, Miss. Marion",female,26,0,0,220844,1300.5,,S,1
 2,"Yrois, Miss. Henriette (""Mrs Harbeck"")",female,24,0,0,248747,13,,S,0
 3,"Abbing, Mr. Anthony",male,42,0,0,C.A. 5547,7.55,,S,0
 3,"Abbott, Master. Eugene Joseph",male,13,0,2,C.A. 2673,20.25,,S,0
